@@ -56,7 +56,8 @@ We use a **Random Forest Classifier**, which is an ensemble model based on multi
 ---
 
 ## 📈 Output & Evaluation
-
+![Screenshot 2025-04-18 151021](https://github.com/user-attachments/assets/f5a29370-bdfa-45ec-8d87-727c602b51f5)
+![Screenshot 2025-04-18 151033](https://github.com/user-attachments/assets/34012846-0b9f-4df2-b618-c172585489a9)
 ### ✅ Confusion Matrix
 
 |                | Predicted: No Default | Predicted: Default |
