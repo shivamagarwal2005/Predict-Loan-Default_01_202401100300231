@@ -85,14 +85,6 @@ We use a **Random Forest Classifier**, which is an ensemble model based on multi
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [Your Name]  
-📧 your-email@example.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🙏 Acknowledgements
 
 - Dataset provided by Kaggle
